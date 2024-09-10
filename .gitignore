@@ -1,0 +1,6 @@
+# Local dev
+.venv
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
