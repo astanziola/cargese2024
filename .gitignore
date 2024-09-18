@@ -1,5 +1,8 @@
 # Local dev
 .venv
+solutions.py
+Tutorial_solved.ipynb
+sample_video.mp4
 
 # Python
 __pycache__/

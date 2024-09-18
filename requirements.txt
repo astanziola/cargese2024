@@ -1,0 +1,6 @@
+ipywidgets==8.1.5
+jupyterlab==4.2.5
+termcolor==2.4.0
+jwave==0.2.1
+optax==0.2.3
+opencv-python>=4.10
