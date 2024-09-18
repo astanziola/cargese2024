@@ -1,6 +1,6 @@
 # Differentiable acoustic simulations using `jwave`
 
-The code provided in this repository has been developed for teaching purposes at the European Summer School on Physical Acoustics and its Applications (2024).
+The code provided in this repository has been developed for teaching purposes at the [European Summer School on Physical Acoustics and its Applications](https://physacoustics.sciencesconf.org/#:~:text=and%20its%20applications-,The%20European%20Summer%20School%20on%20Physical%20Acoustics%20and%20its%20applications,16th%2D20th%202024.) (2024).
 
 
 ## Getting started
