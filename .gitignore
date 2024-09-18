@@ -7,3 +7,4 @@ sample_video.mp4
 # Python
 __pycache__/
 .ipynb_checkpoints/
+*.egg-info
