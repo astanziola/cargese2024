@@ -27,6 +27,8 @@ jupyter lab
 
 and open the `Tutorial` notebook.
 
+You can directly run this tutorial on Google Colab by following the link https://githubtocolab.com/astanziola/cargese2024/blob/main/Tutorial.ipynb 
+
 ## Literature
 
 - [JAX basics](https://jax.readthedocs.io/en/latest/notebooks/thinking_in_jax.html)
